@@ -4,5 +4,5 @@
 *~
 .DS_Store
 *.swp
-.venv
+.venvd
 .gdb_history
